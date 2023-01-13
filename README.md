@@ -19,7 +19,7 @@
      ![lang - Flutter/Dart](https://img.shields.io/badge/Project-Flutter-2ea44f?logo=flutter&logoColor=blue)
 
 - 📫 How to reach me: ['Message Me'](https://sadra.at/c)
-
+  <!---
 <h2 align="Center"  width="55%"> </h3>
 
 ![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arti-Sadra&hide=contribs&count_private=true&show_icons=true&show_owner=true&hide_border=true)
@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arti-sadra&hide=shell,batchfile,css,objective-c&langs_count=8&layout=compact&hide_border=true)
 
-
+--->
   <!---
 <h2 align="Center"  width="55%"> </h3>
 
